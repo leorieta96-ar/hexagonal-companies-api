@@ -3,6 +3,7 @@
 Este proyecto implementa una API REST con arquitectura Hexagonal para manejar empresas y sus transferencias. Incluye:
 
 - Registro de nuevas empresas
+- Registro de transferencias
 - Consulta de empresas adheridas en el último mes
 - Consulta de empresas que realizaron transferencias en el último mes
 
@@ -18,7 +19,7 @@ Usamos el patrón **Hexagonal (Ports & Adapters)**, separando claramente:
 
 ```bash
 # 1. Clonar el repo
-git clone url_del_repo
+git clone https://github.com/leorieta96-ar/hexagonal-companies-api.git
 
 cd hexagonal-companies-api
 
