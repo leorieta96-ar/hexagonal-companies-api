@@ -1,0 +1,509 @@
+{
+  "companies": [
+    {
+      "id": "988a52fe-06f4-4905-999a-9411f2805b0f",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T20:12:48.927Z"
+    },
+    {
+      "id": "10ba9c8d-9848-40d9-96f4-d1027de2cd8a",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T20:14:07.451Z"
+    },
+    {
+      "id": "ea1fb529-5efc-4895-a889-dd0ff646d915",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T20:17:42.293Z"
+    },
+    {
+      "id": "6ca65dd3-66ec-4a0e-a2a5-296e94ca8328",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T20:20:13.492Z"
+    },
+    {
+      "id": "26b1f8b5-b2c6-45ba-a0de-effba5fcb3d3",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T20:21:20.178Z"
+    },
+    {
+      "id": "c55b4dfc-2099-4e53-8782-d2f1e8ea8a37",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T20:29:10.973Z"
+    },
+    {
+      "id": "c3a03077-5f7a-40b7-a997-22394caa05ba",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T20:31:12.988Z"
+    },
+    {
+      "id": "9e5b5e7e-db74-411f-a56a-f984f0191b72",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T22:15:42.602Z"
+    },
+    {
+      "id": "b5247ccf-67c5-4633-ba4e-551ade57b313",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T22:38:08.976Z"
+    },
+    {
+      "id": "test-company-id",
+      "name": "Test Corp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T22:38:09.593Z"
+    },
+    {
+      "id": "company-uuid",
+      "name": "Test Company",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T22:38:09.637Z"
+    },
+    {
+      "id": "fd161239-14ca-4f0b-ae94-bfedb9a00018",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T22:39:44.638Z"
+    },
+    {
+      "id": "test-company-id",
+      "name": "Test Corp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T22:39:45.408Z"
+    },
+    {
+      "id": "company-uuid",
+      "name": "Test Company",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T22:39:45.468Z"
+    },
+    {
+      "id": "288e1be0-a1e6-434e-9bcf-45e86d58153a",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T22:41:30.144Z"
+    },
+    {
+      "id": "test-company-id",
+      "name": "Test Corp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T22:41:30.945Z"
+    },
+    {
+      "id": "company-uuid",
+      "name": "Test Company",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T22:41:31.045Z"
+    },
+    {
+      "id": "008d1083-d769-433f-899d-7fc9de1a2540",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T22:54:57.615Z"
+    },
+    {
+      "id": "test-company-id",
+      "name": "Test Corp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T22:54:58.412Z"
+    },
+    {
+      "id": "company-uuid",
+      "name": "Test Company",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T22:54:58.463Z"
+    },
+    {
+      "id": "37c6b857-16b9-4230-acde-0ec6b8e91cfc",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T22:59:03.596Z"
+    },
+    {
+      "id": "test-company-id",
+      "name": "Test Corp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T22:59:04.339Z"
+    },
+    {
+      "id": "company-uuid",
+      "name": "Test Company",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T22:59:04.396Z"
+    },
+    {
+      "id": "106cb724-0991-4d3c-9e97-0c2322558182",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:09:42.959Z"
+    },
+    {
+      "id": "test-company-id",
+      "name": "Test Corp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:09:44.280Z"
+    },
+    {
+      "id": "company-uuid",
+      "name": "Test Company",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:09:44.353Z"
+    },
+    {
+      "id": "54d7428f-53dd-4ba3-9152-a6537705accf",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:12:03.851Z"
+    },
+    {
+      "id": "test-company-id",
+      "name": "Test Corp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:12:04.385Z"
+    },
+    {
+      "id": "company-uuid",
+      "name": "Test Company",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:12:04.434Z"
+    },
+    {
+      "id": "cb188e73-4cf8-48b1-9e40-f6d920e37ef5",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:13:12.086Z"
+    },
+    {
+      "id": "test-company-id",
+      "name": "Test Corp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:13:12.596Z"
+    },
+    {
+      "id": "company-uuid",
+      "name": "Test Company",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:13:12.658Z"
+    },
+    {
+      "id": "d07fe2f3-9b0c-49c4-a759-6f98d34c1c71",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:19:15.195Z"
+    },
+    {
+      "id": "test-company-id",
+      "name": "Test Corp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:19:24.988Z"
+    },
+    {
+      "id": "company-uuid",
+      "name": "Test Company",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:19:25.631Z"
+    },
+    {
+      "id": "9e3e3931-71e1-41a3-9107-310cf53c12db",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:24:01.534Z"
+    },
+    {
+      "id": "c6f77cdc-a94a-41fb-9f00-8558eebf3e4c",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:26:31.538Z"
+    },
+    {
+      "id": "test-company-id",
+      "name": "Test Corp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:26:32.685Z"
+    },
+    {
+      "id": "company-uuid",
+      "name": "Test Company",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:26:32.842Z"
+    },
+    {
+      "id": "fdb0e002-4fae-47f6-b131-73d5e2548ad0",
+      "name": "TestCorp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:35:24.695Z"
+    },
+    {
+      "id": "test-company-id",
+      "name": "Test Corp",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:35:25.873Z"
+    },
+    {
+      "id": "company-uuid",
+      "name": "Test Company",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:35:26.432Z"
+    },
+    {
+      "id": "43c467d8-bbc5-4b98-95a4-fdfa8ee9164e",
+      "name": "Test Transfer Corp c4c13c04-26ae-444f-ae16-7e8c4c9064d4",
+      "type": "CORPORATE",
+      "joinedAt": "2025-06-12T23:35:29.786Z"
+    }
+  ],
+  "transfers": [
+    {
+      "id": "c28bdd14-3632-486c-bb48-fbfe52d26d05",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T20:14:07.977Z"
+    },
+    {
+      "id": "e97e22d7-229b-4799-a9b3-291e4c98c3c4",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T20:14:07.996Z"
+    },
+    {
+      "id": "41619a4a-a619-4306-956c-8f8dfdcc2301",
+      "companyId": "company-uuid",
+      "date": "2025-06-12T20:14:08.002Z"
+    },
+    {
+      "id": "f0e374db-07a9-4ccb-8540-49eec30a54e2",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T20:17:42.762Z"
+    },
+    {
+      "id": "4e0c4f71-3168-4d9c-96b7-a0c557479b90",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T20:17:42.784Z"
+    },
+    {
+      "id": "b29c33d4-62df-4d34-b58c-ccbfbb8afc9c",
+      "companyId": "company-uuid",
+      "date": "2025-06-12T20:17:42.792Z"
+    },
+    {
+      "id": "52f360a3-fa10-4a58-8351-e812ecacffdb",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T20:29:11.294Z"
+    },
+    {
+      "id": "c52ae9ce-8d91-4fae-9ef2-7d410a56fe08",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T20:29:11.314Z"
+    },
+    {
+      "id": "3e2233bf-3067-464d-8f07-a0e76a21be64",
+      "companyId": "company-uuid",
+      "date": "2025-06-12T20:29:11.319Z"
+    },
+    {
+      "id": "cf760cbe-e4a4-46d5-8388-a2d75f788114",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T20:31:13.551Z"
+    },
+    {
+      "id": "4ab2a9a2-8bb8-4200-b641-3f0a4c6ecdfe",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T20:31:13.573Z"
+    },
+    {
+      "id": "47584fc9-9ce9-44e5-be2c-271a6a4d948c",
+      "companyId": "company-uuid",
+      "date": "2025-06-12T20:31:13.577Z"
+    },
+    {
+      "id": "3414aecb-db10-4d52-bca2-747581158d5d",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T22:15:43.118Z"
+    },
+    {
+      "id": "d97b04fe-b5ab-4ca4-a699-14ca8a9d970d",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T22:15:43.143Z"
+    },
+    {
+      "id": "f57b6ff7-88ad-4493-8f65-228485c56963",
+      "companyId": "company-uuid",
+      "date": "2025-06-12T22:15:43.149Z"
+    },
+    {
+      "id": "45147a50-859b-4331-9d83-7c445c5707e6",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T22:38:09.606Z"
+    },
+    {
+      "id": "a5f9c2a1-219d-4525-9bd0-ce6191781c2f",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T22:38:09.633Z"
+    },
+    {
+      "id": "ab94aa4d-8f45-48c1-99b1-88857aafade2",
+      "companyId": "company-uuid",
+      "date": "2025-06-12T22:38:09.640Z"
+    },
+    {
+      "id": "03ad5c92-ebc3-4c30-923d-c5fee63ee2a4",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T22:39:45.420Z"
+    },
+    {
+      "id": "880116b3-1766-49d6-ab78-9eb479ac76b8",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T22:39:45.464Z"
+    },
+    {
+      "id": "79afe0c9-d07f-4581-9447-764ed5c39911",
+      "companyId": "company-uuid",
+      "date": "2025-06-12T22:39:45.473Z"
+    },
+    {
+      "id": "45caf540-fbbb-468f-a1ca-a0b5b5e47ae7",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T22:41:30.972Z"
+    },
+    {
+      "id": "eaa05a29-de4b-4672-ae98-554ce3884cdd",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T22:41:31.026Z"
+    },
+    {
+      "id": "633bd253-3dc5-4f44-ad66-5c31d88eed1c",
+      "companyId": "company-uuid",
+      "date": "2025-06-12T22:41:31.048Z"
+    },
+    {
+      "id": "371175f4-afef-4ab7-8bb1-a29c139b0e32",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T22:54:58.422Z"
+    },
+    {
+      "id": "4ebe3c65-8c68-40e2-a620-46f449d027a0",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T22:54:58.458Z"
+    },
+    {
+      "id": "619ffd54-a3d5-42e8-a71a-2846c2652d2c",
+      "companyId": "company-uuid",
+      "date": "2025-06-12T22:54:58.467Z"
+    },
+    {
+      "id": "df3cb178-0ae8-4404-b04f-501b13606ea1",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T22:59:04.349Z"
+    },
+    {
+      "id": "822a9640-a558-4e05-a517-01d06a58b646",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T22:59:04.389Z"
+    },
+    {
+      "id": "3a402296-b900-4951-b1dd-d083938548b7",
+      "companyId": "company-uuid",
+      "date": "2025-06-12T22:59:04.402Z"
+    },
+    {
+      "id": "1d8846fd-8ede-485b-b16e-63fb82a51a45",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T23:09:44.295Z"
+    },
+    {
+      "id": "7f50f299-30f7-4c3a-b6cc-9efacf0947c1",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T23:09:44.346Z"
+    },
+    {
+      "id": "4861eb80-3745-463b-b3be-9058d184fd8b",
+      "companyId": "company-uuid",
+      "date": "2025-06-12T23:09:44.366Z"
+    },
+    {
+      "id": "07650fa0-c540-4067-b723-850665f8190f",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T23:12:04.399Z"
+    },
+    {
+      "id": "b8ad961a-670a-4586-be45-05857424d1c5",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T23:12:04.431Z"
+    },
+    {
+      "id": "2c7141b0-cbda-46b8-9193-13fdbd2dfa0a",
+      "companyId": "company-uuid",
+      "date": "2025-06-12T23:12:04.438Z"
+    },
+    {
+      "id": "f0f67e9e-deb7-49a3-86b1-249daca1cac8",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T23:13:12.619Z"
+    },
+    {
+      "id": "514ed24d-e1d4-4c10-80b0-a5287480e976",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T23:13:12.652Z"
+    },
+    {
+      "id": "abc0f42e-d251-44fb-a56c-dff496e3d5d8",
+      "companyId": "company-uuid",
+      "date": "2025-06-12T23:13:12.663Z"
+    },
+    {
+      "id": "47555f1b-e708-4da0-a72c-36829f3f1313",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T23:19:25.234Z"
+    },
+    {
+      "id": "06f941e6-9774-4a79-9311-4a43994c1a94",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T23:19:25.593Z"
+    },
+    {
+      "id": "494826e6-3595-4a88-b56c-1550f3061840",
+      "companyId": "company-uuid",
+      "date": "2025-06-12T23:19:25.653Z"
+    },
+    {
+      "id": "b55139da-3482-468a-b872-138b2ed8b957",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T23:26:32.729Z"
+    },
+    {
+      "id": "1cf4c0d7-2802-4dd5-84ed-16df0b37d4f2",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T23:26:32.799Z"
+    },
+    {
+      "id": "61d7215c-8227-4857-9356-3f483a65d3f0",
+      "companyId": "company-uuid",
+      "date": "2025-06-12T23:26:32.846Z"
+    },
+    {
+      "id": "f1bde651-b68b-4085-a5e7-82b5ce6950ed",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T23:35:26.151Z"
+    },
+    {
+      "id": "3d51a2c9-f4bb-45a1-a300-985a4dcd1f4c",
+      "companyId": "test-company-id",
+      "date": "2025-06-12T23:35:26.420Z"
+    },
+    {
+      "id": "7570fb35-537e-4e20-86f9-4eb4ad0ad3b1",
+      "companyId": "company-uuid",
+      "date": "2025-06-12T23:35:26.436Z"
+    },
+    {
+      "id": "97d71343-2806-4498-8c0b-b437adefc949",
+      "companyId": "43c467d8-bbc5-4b98-95a4-fdfa8ee9164e",
+      "date": "2025-06-12T23:35:29.860Z"
+    }
+  ]
+}
